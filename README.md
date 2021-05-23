@@ -1,1 +1,1 @@
-ProjectWatcher
+ProjectWatcher is a DotNet app targeted to the desktop which saves images from multiple USB webcams periodically when their content changes, and also allows the user to make timestamped notes that act as bookmarks to the images captured around those times.  It is intended to watch a disassembly/assembly process (like working on a car) to allow the user to refer back to what things looked like before they took them apart.
